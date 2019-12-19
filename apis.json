@@ -1,0 +1,103 @@
+{
+    "name": "LiveOps",
+    "description": "Liveops is a pioneer in the contact center industry, with the largest U.S.-based cloud contact center of more than 20,000 home-based, independent agents. In 2000, we started the journey to help establish the work-from-home model in customer service. Si...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1338-liveops.jpg",
+    "tags": [
+        "api lifeycle",
+        "api provider",
+        "contacts",
+        "customers",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/liveops\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LiveOps",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1338-liveops.jpg",
+            "humanURL": "http:\/\/liveops.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/liveops-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.liveops.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.liveops.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.liveops.com\/company\/pressroom\/news.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/liveops"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/liveops"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.liveops.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/knowledge.liveops.com\/developer"
+        },
+        {
+            "type": "Email",
+            "url": "sales@liveops.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@liveops.com"
+        },
+        {
+            "type": "Email",
+            "url": "hello@liveops.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@liveops.com"
+        },
+        {
+            "type": "Email",
+            "url": "joinliveops@liveops.com"
+        },
+        {
+            "type": "Email",
+            "url": "loginsupport@liveops.com"
+        },
+        {
+            "type": "Email",
+            "url": "terminatedagents@liveops.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/liveops"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/liveops"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/liveops.com\/"
+        }
+    ]
+}
